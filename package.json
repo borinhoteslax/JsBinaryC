@@ -1,6 +1,19 @@
 {
     "name": "nodepends",
-    "version": "0.0.1",
+    "version": "0.0.2",
+    "description": "dependencies for node",
+    "license": "UNLICENSED",
+    "private": true,
+    "readme": "This .json package is for download dependencies for node",
+    "repository": {
+        "url": "https://github.com/borinhoteslax/JsBinaryC.git",
+        "type": "git"
+    },
+    "author": {
+        "name": "borinho_teslax",
+        "email": "borinho.avci@gmail.com"
+    },
+
     "devDependencies": {
         "colors": "1.4.0"
     }
