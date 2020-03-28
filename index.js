@@ -1,5 +1,6 @@
 var colors = require('colors');
 var readline = require('readline');
+//defining requirements and variables
 
 function binaryCode(binarydigit , n) {
     console.log('Function started.'.rainbow);
@@ -23,15 +24,8 @@ function binaryCode(binarydigit , n) {
         console.log('Invalid data type.'.red)
     }
 }
+//binaryconverter
  
-   let answer1 = undefined;
-   let answer2 = undefined;
-
-//value 1 is the digit of binary
-//value 2 is the number that you want to translate to binary code
-//values are can be just positive and neutral(0) numbers
-
-
 function control() {
 
     let answer1 = undefined;
@@ -55,9 +49,6 @@ function control() {
         }
     });
 }
+//function for run code in console
+
 control();
-
-
-//value 1 is the digit of binary
-//value 2 is the number that you want to translate to binary code
-//values are can be just positive and neutral(0) numbers

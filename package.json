@@ -1,0 +1,7 @@
+{
+    "name": "nodepends",
+    "version": "0.0.1",
+    "devDependencies": {
+        "colors": "1.4.0"
+    }
+}
